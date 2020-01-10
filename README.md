@@ -8,4 +8,6 @@ There are then two hosts ToDo.AspNetCore and ToDo.AzureFunctions. Each contain a
 
 When the Function Monkey compiler runs it will use this information to generate appropriate assemblies.
 
+Note that the ToDo.AspNetCore project also requires the FunctionMonkey.AspNetCore NuGet package.
+
 Note that this approach is entirely optional - you can also convert a project from one target type to the other - but it is a handy way of demonstrating the capabilities and cleanly separating code from the host environment (you'd have to specifically add ASP.Net Core assemblies to the application for example).
