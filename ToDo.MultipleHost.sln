@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Application", "ToDo.Application\ToDo.Application.csproj", "{91F8A360-DBE6-409D-8420-4DB801EDA354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.AzureFunctions", "ToDo.AzureFunctions\ToDo.AzureFunctions.csproj", "{C7CCC274-41F5-4901-88B4-D362714F0AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.AspNetCore", "ToDo.AspNetCore\ToDo.AspNetCore.csproj", "{46563D69-B7E1-4587-9CCB-7ED3F053C6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F8A360-DBE6-409D-8420-4DB801EDA354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F8A360-DBE6-409D-8420-4DB801EDA354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F8A360-DBE6-409D-8420-4DB801EDA354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F8A360-DBE6-409D-8420-4DB801EDA354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7CCC274-41F5-4901-88B4-D362714F0AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CCC274-41F5-4901-88B4-D362714F0AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CCC274-41F5-4901-88B4-D362714F0AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CCC274-41F5-4901-88B4-D362714F0AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46563D69-B7E1-4587-9CCB-7ED3F053C6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46563D69-B7E1-4587-9CCB-7ED3F053C6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46563D69-B7E1-4587-9CCB-7ED3F053C6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46563D69-B7E1-4587-9CCB-7ED3F053C6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
