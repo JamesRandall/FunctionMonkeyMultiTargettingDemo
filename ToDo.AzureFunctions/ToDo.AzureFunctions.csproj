@@ -4,8 +4,8 @@
         <AzureFunctionsVersion>V3</AzureFunctionsVersion>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="FunctionMonkey.Abstractions" Version="4.0.30-beta.3" />
-        <PackageReference Include="FunctionMonkey.Compiler" Version="4.0.37-beta.3" />
+        <PackageReference Include="FunctionMonkey.Abstractions" Version="4.0.39-beta.4" />
+        <PackageReference Include="FunctionMonkey.Compiler" Version="4.0.39-beta.4" />
         <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.1" />
     </ItemGroup>
     <ItemGroup>
